@@ -1,3 +1,6 @@
+### Python Euler
+Project Euler solutions made with Python for learning purposes
+
 # Disclaimer
 
 Here I will be uploading my solutions for the Project Euler problems
